@@ -1,0 +1,124 @@
+
+li{
+  display: inline-block;
+  margin: 10px;
+}
+ /* .container{
+  margin-left: px;
+} */
+ .header{
+  background-color: royalblue;
+}
+/* .donate-button{
+  display: ;
+} */
+.testimonials-image{
+  width: 100%;
+  height: 30rem;
+}
+.para{
+  background-color: royalblue;
+  color: white;
+  margin-top: 15px;
+  text-align: center;
+}
+.para1{
+  color: Green;
+}
+.head{
+  color: royalblue;
+  text-align: center;
+  padding-top: 50px;
+
+}
+.head1{
+  color: green;
+}
+.intro{
+  background-color: silver;
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+
+}
+.para2{
+
+  margin-left: 160px;
+  margin-right: 160px;
+  /* margin-bottom: 40px; */
+  margin-top: 10px;
+  padding-bottom: 100px;
+}
+
+.counter{
+  display: inline-block;
+}
+.col-xs-12 {
+  white-space: nowrap !important;
+  max-width: 100%;
+  overflow: auto;
+  background-color: blue;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 0;
+}
+.col-xs-3 {
+  float: none !important;
+  display: inline-block !important;
+  padding: 30px;
+  text-align: center;
+
+}
+
+.card-title{
+  padding-top: 15px;
+  color: royalblue;
+
+
+}
+.card text-center{
+  display:table-cell;
+    vertical-align:middle;
+
+
+}
+.main{
+  margin-left: 5%;
+
+}
+div.card {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+
+}
+.pic{
+  margin-left: 13%;
+}
+.card-text{
+  color: royalblue;
+}
+.gallery{
+  padding-bottom: 30px;
+}
+.footer{
+  padding-top: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+
+}
+.collapse ul li > a:hover{
+  background-color: royalblue;
+  border-radius: 10px;
+}
+
+.header-top{
+  padding-right: 80px;
+}
+.action-button-widget{
+
+}
